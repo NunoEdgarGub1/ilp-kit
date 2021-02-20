@@ -1,11 +1,1 @@
-<!-- Pages Progressbar -->
-
-<svg version="1.1" id="pagesloading" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="15px" height="1px" viewBox="0 0 15 1" enable-background="new 0 0 15 1" preserveAspectRatio="none">
-
-	 <circle r="1px" cx="0px" cy="0.5px" fill="#F55753"  >
-         <animate attributeName="r" begin="0.2s" from="11" to="0" dur="1.2s" repeatCount="indefinite"/>
-         <animateTransform attributeName="transform" type="translate" values="-35 0;2 0;17 0;20 0" dur="1.2s" begin="0" repeatCount="indefinite"/>
-     </circle>
-
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="pagesloading" width="15" height="1" x="0" y="0" enable-background="new 0 0 15 1" preserveAspectRatio="none" version="1.1" viewBox="0 0 15 1"><circle cx="0" cy=".5" r="1" fill="#F55753"><animate attributeName="r" begin="0.2s" dur="1.2s" from="11" repeatCount="indefinite" to="0"/><animateTransform attributeName="transform" begin="0" dur="1.2s" repeatCount="indefinite" type="translate" values="-35 0;2 0;17 0;20 0"/></circle></svg>
